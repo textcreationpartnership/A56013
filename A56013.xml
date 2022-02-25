@@ -1,0 +1,246 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Proposal for an equal land-tax humbly submitted for consideration.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56013</idno>
+            <idno type="STC">Wing P3691</idno>
+            <idno type="STC">ESTC R39721</idno>
+            <idno type="EEBO-CITATION">18476846</idno>
+            <idno type="OCLC">ocm 18476846</idno>
+            <idno type="VID">107807</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A56013)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 107807)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1642:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Proposal for an equal land-tax humbly submitted for consideration.</title>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <publisher>Printed for Randall Taylor ..,</publisher>
+                  <pubPlace>London printed :</pubPlace>
+                  <date>1691 ;</date>
+                  <pubPlace>London :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Second imprint from colophon.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Land value taxation --  England.</term>
+               <term>Taxation --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:107807:1"/>
+            <pb facs="tcp:107807:1" rendition="simple:additions"/>
+            <p>A PROPOSAL FOR AN Equal Land-Tax: Humbly ſubmitted to CONSIDERATION.</p>
+            <p>
+               <hi>LONDON:</hi> Printed in the Year 1691.</p>
+         </div>
+      </front>
+      <body>
+         <div type="proposal">
+            <pb facs="tcp:107807:2"/>
+            <pb n="3" facs="tcp:107807:2" rendition="simple:additions"/>
+            <head>A PROPOSAL FOR AN Equal Land-Tax, <hi>&amp;c.</hi>
+            </head>
+            <p>THere is a great and urgent neceſſity at preſent of raiſing great Summes of Money. To which the Common People of <hi>England,</hi> we may ſafely preſume, would willingly contribute their utmoſt: and matters might be ſo order'd, that their Aſſiſtance would be very conſiderable. But ſome would have the Gentry take the whole Burden, upon them<g ref="char:EOLhyphen"/>ſelves and a few others; and would have this Money raiſed by a Land-Tax. which way will very probably be followed. Here it is confeſs't, that though this Tax prove heavy, yet upon this great Occaſion it would be born with Cheerfulneſs, if it were made equal. But the monſtrous inequality of it, as the Rates are now, is more grievous then the Tax it ſelf. What can be a greater heart-breaking, then to pay double and treble, in proportion to other people? And many a poor Gentle<g ref="char:EOLhyphen"/>man muſt be ruin'd, if theſe Rates continue.</p>
+            <p>
+               <pb n="4" facs="tcp:107807:3"/>A Remedy for this Evil hath been nobly attempted already, in Parliament, by bringing the Payments to a Pound Rate. And ſurely it cannot be denyed, but that the Taxes of two Shillings in the Pound, and three Shillings in the Pound, were the faireſt that ever were granted. Nor hath there been any thing done in <hi>England</hi> more becoming a Parliament. But that which was well deſigned, was ſo villanouſly executed, (I mean in the Aſſeſſing); that even thoſe Taxes proved ſhamefully un<g ref="char:EOLhyphen"/>equal. So that, notwithſtanding all the Care that was taken, ſome Men payd double and treble to others. Not that much Land was Aſſeſs't above the true value, (for That is not complain'd of); but while ſome were Aſſeſs't to the full, others were Aſſeſs't at the half, or third part. by which means they that were Aſſeſs'd to the full, payd double or Treble. For Example: If there be three Farms of equal value, that is, each of them worth three<g ref="char:EOLhyphen"/>ſcore pound a year; and one of theſe is duely Rated at threeſcore Pound, the ſecond unduely at thirty, and the third at twenty; in this caſe the firſt payes double to the ſecond, and treble to the third.</p>
+            <p>You will ſay, that to rectify this matter, we muſt raiſe all thoſe that are under-rated, and thereby have all Lands Aſſeſſed at their juſt and full value. In anſwer where<g ref="char:EOLhyphen"/>unto, I confeſs that if this thing were done, we might eaſily have equal Taxes: whether they were laid by the Pound Rate, or by a Summe certain upon each County. But all the Skill, and all the difficulty is, to get this thing done. The ordinary Aſſeſſors will never do it. for Ex<g ref="char:EOLhyphen"/>perience hath taught us, that Men will ſtrangely ſwear and forſwear, to ſave themſelves and their Neighbours from being ſcrewed up. And it hath been propoſed al<g ref="char:EOLhyphen"/>ready, to take a more effectual courſe by rewarding In<g ref="char:EOLhyphen"/>formers. but that way doth not pleaſe. Some would have a Tax by the Pound Rate, and the King to name
+<pb n="5" facs="tcp:107807:3"/>the Commiſſioners. but I doubt it will not be convenient, for his Majeſty or Men deputed by him, to have any hand in ſcrewing up people. Others would have ſuch a Tax farm'd out, and the Farmers to try their Skill. but a Tax fit to be farmed out ſhould be of ſome continuance: whereas this muſt be paid at once, or within a ſhort time. beſide, theſe Farmers and theſe Commiſſioners muſt do their work by the help of Informers: who, as I have ſaid before, are not pleaſing. Moreover, go which way you will, this raiſing and Screwing of people is a harſh and odious buſineſs, and goes againſt the haire: ſo that it will be found extremely difficult.</p>
+            <p>But the deſign of the Propoſal here offer'd, is not to raiſe any body: but only to eaſe thoſe that are over<g ref="char:EOLhyphen"/>charged, and that pay above their proportion. Which is a thing ſo equitable and ſo favourable, that there is good reaſon to hope that no Man will be ſo inhumane to op<g ref="char:EOLhyphen"/>poſe it. Conſidering withall, that none are to have this Eaſement, unleſs they make their caſe ſo plain that no doubt can be made of it.</p>
+            <p>The Propoſall hath been briefly mention'd already, in the <hi>Project of a Deſcent upon France.</hi> and more at large it is this.</p>
+            <list>
+               <item>1. <hi>That a Land-Tax be granted, the ſame with that which was granted this laſt year. (the Amount whereof is (we know) about ſeventeen hundred thouſand pounds.) And that the ſame proportions be laid upon the ſeveral Counties, and upon each particular Man.</hi>
+               </item>
+               <item>2. <hi>Provided nevertheleſs that no Man be obliged to pay above two Shillings in the Pound, of the true and full yearly value of his Land.</hi>
+               </item>
+               <item>3. <hi>That, in order hereunto, all perſons aggrieved, that is, all that are to pay above that proportion, may complain to ſuch Commiſſioners as the Parliament ſhall pleaſe to nomi<g ref="char:EOLhyphen"/>nate for each County.</hi>
+               </item>
+               <item>
+                  <pb n="6" facs="tcp:107807:4"/>4. <hi>That theſe Commiſſioners, upon cleere proofs in writing of the true value of the Land, ſhall make juſt Abatements, and ſhall ſettle the Complainants Tax at the ſaid proportion of two Shillings in the Pound.</hi>
+               </item>
+               <item>5. <hi>That the Commiſſioners cauſe all theſe Depoſitions, and their Orders upon them, to be fairely tranſcribed into a Booke; and ſo tranſmit them to the Committee, which the Parliament ſhall pleaſe to appoint for this Service.</hi>
+               </item>
+               <item>6. <hi>That this Committee of Parliament ſhall inſpect the ſaid Depoſitions and Orders; and ſhall diſallow the Orders if the Evidence ſeem not cleere, or alter them as they ſee Cauſe.</hi>
+               </item>
+               <item>7. <hi>All Orders and Abatements made by the Commiſ<g ref="char:EOLhyphen"/>ſioners to ſtand good, unleſs, and untill, they are diſallowed by the Committee of Parliament.</hi>
+               </item>
+               <item>8. <hi>No proof to be admitted, but by written Depoſitions. Even the Quality and Credit of the Witneſſes, if there be occaſion for it, to be proved in writing.</hi>
+               </item>
+            </list>
+            <p>Thus I have layd open the whole deſigne: which aimes at nothing but to relieve the Oppreſſed. Here will be good ſtore of Informers: but of all that ever were, they will be the moſt innocent; for every Man muſt Informe for himſelfe. And he may eaſily do it with effect. For there is nothing more eaſie, then for any Man to ſhew plainly the true value of his Land.</p>
+            <p>If the Land be Lett, or have been lately, at a Rack Rent; 'tis eaſy to ſhew what that Rent is or was. And the Tenants own Oath will be good Evidence, if he can alſo ſweare, that the whole Tax muſt be allowed by the Landlord. which the Law directs, if there be no Cove<g ref="char:EOLhyphen"/>nants to the contrary. Alſo the ſame thing may be proved by the Landlords Steward or Bailiff, or any Servant that knowes.</p>
+            <p>
+               <pb n="7" facs="tcp:107807:4"/>If the Land be Lett for Lives or Years, and at an un<g ref="char:EOLhyphen"/>der Rent; it may be ſhewed what the Rent is, and like<g ref="char:EOLhyphen"/>wiſe what Fine was payd, and for what terme.</p>
+            <p>But if the Land be a Mans owne, and was never Lett, there muſt be more adoe. though even then the thing will not be greatly difficult. It will give a great light, if a Surveyour ſwear to the Quantity. Shewing alſo how much of it is Common Field, and how much Incloſure: likewiſe, how much is Meadow, Arable, Paſture, and Wood. Then others muſt prove the common rate of thoſe ſorts of Land, in that place and Neighbour<g ref="char:EOLhyphen"/>hood. And ſubſtantial Neighbours may make Oath, what they believe and judge, to be the true value of the particular Land in queſtion. Alſo the Party may ſhew, at what rate he bought the Land, if he hath lately bought it; or at what rate he hath offer'd it to be Lett or Sold. In ſhort, there are many wayes to make out a thing of this nature, if it be true. But to palliate a falſe value is very difficult, ſo as to give cleer and full Satisfaction: without winch, there muſt no relief be expected by the Complainants.</p>
+            <p>I muſt now anſwer a Queſtion concerning this Matter: and likewiſe two Objections.</p>
+            <p>The Queſtion that may be ask'd is this; What is the meaning of this Committee of Parliament, which (ac<g ref="char:EOLhyphen"/>cording to theſe Propoſalls) muſt controll the Commiſſi<g ref="char:EOLhyphen"/>oners of the Counties? And I anſwer, that the meaning is; that the Commiſſioners may take greater Care to do equall and righteous things, when they find that their Proceedings muſt be ſeen and examin'd by others. Whereas they would be apt to take too much Liberty, if it ſhould be only known to themſelves, what Methods they follow, and upon what Grounds they go. But yet in all likelihood the Committee will not much alter what the Comiſſioners have done.</p>
+            <p>
+               <pb n="8" facs="tcp:107807:5"/>The firſt of the Objections is, That the thing here propoſed is exceeding laborious. I anſwer; That the bringing Taxes to an equality is ſo glorious an Atchieve<g ref="char:EOLhyphen"/>ment, that we ought to ſpare for no pains to Compaſs it. Nor is it only noble and beneficial, but alſo of abſolute neceſſity. <hi>If the equall dividing the common Booty be ne<g ref="char:EOLhyphen"/>ceſſary to Pirates and Buccaneers, the equall diſtribution of the Publick Burdens is much more to a State.</hi> Saith a late Author. But moreover, as this Work is great, ſo there will be many Hands to do it. The Country Commiſſi<g ref="char:EOLhyphen"/>oners will divide themſelves, as they uſe to do in the caſe of Aſſeſſments. And the Committee of Parliament (which will be numerous) will name ſeveral Sub-Committees out of their own number, and ſhare the Work to them. who (amongſt them) muſt peruſe the Bookes ſent from the Counties; and report to the whole Committee, what they diſallow and what they doubt of. The tranſcribing the Depoſitions into theſe Books may ſeem a tedious bu<g ref="char:EOLhyphen"/>ſineſs, and of too much time. But even here ſo many hands may be employ'd, as will make quick work. For ſeveral Men may be at the ſame time tranſcribing upon looſe Sheets, and then thoſe Sheets be made up in a Booke. Indeed there ſhould be two Bookes: one to be ſent to the Parliament, the other to be kept in the County. All this Writing to be paid for, by thoſe for whoſe benefit it is done, according to the length of the Depoſitions that concern them. And 'tis much if it coſt any Man five Shillings.</p>
+            <p>The ſecond Objection is, That by theſe Abatements, according to the Propoſals here offer'd, the Tax will fall ſhort. In anſwer to which I muſt acknowledge, that the Tax will fall ſhort at leaſt half a Million. But if the Publick Occaſions require it, this may and muſt be made good by a farther Tax: which by this time will be pretty equall. And ſurely it is much fitter, that the whole Na<g ref="char:EOLhyphen"/>tion
+<pb n="9" facs="tcp:107807:5"/>ſhould bear this further Burden by an equall Tax; then that part of the Nation ſhould beare it, by having the Inequality continued upon them, and by paying above their proportion.</p>
+            <p>It is confeſs't, that when all is done that hath been here propoſed, there will ſtill remain ſome Inequality. For as the Rates are now, there are many that, to the laſt great Tax, pay under two Shillings in the Pound: And there is nothing here offer'd to raiſe them. We muſt therefore be content (at leaſt at preſent) to let them enjoy this advantage. Let them pay twenty pence, or eighteen pence, or leſs, while others pay two Shillings. But that ſome ſhould pay but twenty pence or eighteen pence, while others pay four, five, or ſix Shillings, or more; ſo that ſome are at eaſe, while others are deſtroyed; is too unreaſonable, and ought to be endured no longer.</p>
+            <p>You will aske, What Injury is it to me, if my Neigh<g ref="char:EOLhyphen"/>bour be eaſed? I anſwer, the Injury is, that I am not eaſed too. And if He pay below his proportion, I muſt pay above mine. And by the undue Eaſing of Him and others, the Tax falls ſhort of what it would otherwiſe be; ſo that the Publick Occaſions call for further Taxes, of which I ſhall beare part, and ſtill above my proportion. If ſome Part-Owners ſhould pay leſs in proportion then Others toward the Ships Charge, it would be a plain Wrong to thoſe Others. And ſo it would be, if ſome Lands in a Marſh ſhould (for maintaining the Sea Walls) pay but ſix pence an Acre, when other Lands pay twelve pence.</p>
+            <p>It hath been ſaid, that though a Tax were laid as hath been here propoſed, yet there would be ſtill ſome Ine<g ref="char:EOLhyphen"/>quality. But the next Tax after might bring things more even. For it might be granted for the ſame groſs Summe, with this Proviſo that none pay above one Shilling in
+<pb n="10" facs="tcp:107807:6"/>the Pound: with the ſame Methods for giving eaſe. And this Tax would make good what the other falls ſhort. For both theſe Taxes will amount to three Shillings in the Pound: which is very neere the true proportion, that all Lands ſhould pay to the Tax now on foot.</p>
+            <p>Thus by the way that hath been here propos'd, there muſt be two Steps to arrive at the Reformation in<g ref="char:EOLhyphen"/>tended. But I conceive, upon further conſideration, that the thing may be done at once: and that the firſt new Tax may be at the former Rates, Provided that none pay above one Shilling in the Pound. Which will be the ſame thing in effect, as a Tax of twelve pence in the Pound, with a new and ſure Method to have it equally Aſſeſſed. This Tax may, by the good old word, be called a Subſidy. And the Parliament, now and at other times, may pleaſe to grant, either one Subſidy, or part of one, or a Subſidy and a half, or two or three Sub<g ref="char:EOLhyphen"/>ſidies or more, according as the Publique Occaſions re<g ref="char:EOLhyphen"/>quire.</p>
+            <p>But ſtill after all hath been done, the Taxes will not yet be exactly equall. For there are divers, as I am well inform'd, that do not pay ſix pence a Pound to the great Tax now upon us. I leave theſe to be further con<g ref="char:EOLhyphen"/>ſider'd. And in the mean time, though they do not pay to the full, yet they will pay three times as much in pro<g ref="char:EOLhyphen"/>portion, as they did formerly.</p>
+            <p>I have all this while been driving at Equality. But there is an Equality ſo unequal, that I cannot but de<g ref="char:EOLhyphen"/>clare my ſenſe againſt it. and That is; that Houſes ſhould beare equall proportion with Lands. for which there is no reaſon, as every Mans reaſon will tell him. They ought therefore to be abated a fourth or a fifth part.</p>
+            <p>
+               <pb n="11" facs="tcp:107807:6" rendition="simple:additions"/>If the Parliament ſhall not think fit, to enter upon this great Worke at preſent, (though 'tis every Mans Work, and would be ſoon done); they may however, by a ſhorter way, give ſome relief (if they pleaſe) to thoſe that are oppreſs't in the Land-Tax: that is, to thoſe that pay plainly above their proportion. And this may be done; By making the Summe of the Tax next granted, to be ſomething leſs than the laſt, and then diſtributing this Abatement among the Counties, that are now no<g ref="char:EOLhyphen"/>toriouſly over-charged: the other Counties continu<g ref="char:EOLhyphen"/>ing as they are. Thus, whereas the laſt Tax was for about ſeventeen hundred thouſand Pounds, the next may be for fifteen or fourteen hundred thouſand: which is two or three hundred thouſand pound leſs. And then the Oppreſſed Counties, (which Counties are well known), may have their Monthly Payments abated, in ſuch pro<g ref="char:EOLhyphen"/>portions as the Parliament ſhall find meet. The raiſing either of Men or Counties is ſuch a <hi>Noli me tangere,</hi> that there is no meddling with it: but there is great reaſon to hope, that the giving juſt Eaſe to thoſe that want it, will meet with no Oppoſition. For my own part, I have no particular Concern in this Matter. I am in a County that is not like to be eaſed. And I pay about three Shil<g ref="char:EOLhyphen"/>lings in the Pound; which is neer the true proportion. But I wonder the Counties that are concern'd, have not petition'd all this while. In ſuch a caſe as this, even clamorous Petitions would be excuſable.</p>
+            <p>There is another Conſideration about Taxes, which I recommend to thoſe worthy Perſons who have a hand in granting them. And that is, That the Payments be not made too quick. We know that the preſent great Tax (to ſay nothing of thoſe precedent) is payd with ex<g ref="char:EOLhyphen"/>ceeding difficulty. And ſuch another Tax in the neck
+<pb n="12" facs="tcp:107807:7" rendition="simple:additions"/>of it, to be paid likewiſe forthwith, 'tis doubt would occaſion extreme Diſtreſſes. When a Man hath bled much, if you go to take a further great Quantity from him, at once and preſently; it may prove fatal, his Body cannot beare it. But after a while, his Bloud being recruited and ſupplyed you may take more without hurt or dan<g ref="char:EOLhyphen"/>ger; eſpecially if you do it by degrees. And 'tis juſt ſo with our Nation in point of Taxes. We could pay a mo<g ref="char:EOLhyphen"/>derate T<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>x for many years, and be little the worſe. And p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ople would have room and time to ſupply all by In<g ref="char:EOLhyphen"/>duſtry and Parſimony, the two great Promoters both of private and publick Riches. But our Mony of late hath been ſwept away ſo faſt from us, little of it returning; that it hath not only ſhear'd from the Landlord a good part of his Rent, but alſo diſabled the Tenant from pay<g ref="char:EOLhyphen"/>ing the reſt: the Market being dead, and no Money ſtir<g ref="char:EOLhyphen"/>ring. And then the Cities and Towns muſt needs, as they do, find a grievous deadneſs of Trade. So that a general Poverty hath ſuddenly overwhelm'd us.</p>
+            <p>We could better pay two Millions in four years, then a Million and a half in one yeare. In which firſt way, the Warre might be maintain'd by Taxes, that probably will be payd in time of Peace: when we ſhall be better able to do it. Alſo his Majeſties preſent Occaſions will be as well provided for this way, if there be a Credit given upon thoſe future Payments. You will ſay, This will draw on Intereſt. But I anſwer, that the Intereſt will not do us ſo much harme, as the Reſpite will do us good.</p>
+            <p>In this Affaire we muſt conſider, not only what is beſt to be done, but alſo (and more eſpecially) what We are able to do. Perhaps it were beſt to pay ready downe. But if we cannot do it, we muſt be glad to take time and allow Intereſt. And it is better to have upon us, for ſome yeares a burden we can beare; than
+<pb n="13" facs="tcp:107807:7" rendition="simple:additions"/>to be cruſh't at once by a burden we cannot beare.</p>
+            <p>If it be an advantage, to Lend Mony to the Pub<g ref="char:EOLhyphen"/>lique above the common Intereſt; it is among Our ſelves, and any one that will may have it. There is alſo this Convenience, that all thoſe Lenders will be firmly engaged to wiſh well to the Government.</p>
+            <p>I would not have us follow the Example of <hi>Holland:</hi> where their whole ſtanding Revenue is Anticipated for a great many years, by vaſt Summes of Money taken up at Intereſt. And there are many Families, that live upon the conſtant Intereſt of Moneys lent to the Sta<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e. But I hope we ſhall never be brought to ſuch Neceſſities. And I would have our Dealings in this kind, to be for mode<g ref="char:EOLhyphen"/>rate Summes, and a moderate number of years.</p>
+            <p>We may remember, that in King <hi>Charles</hi> his firſt <hi>Dutch</hi> Warre, the Parliament gave at once two Millions and a half: but to be payd in ſome years. So that what is here offer'd in this Matter, is even in <hi>England</hi> no new thing.</p>
+            <p>But what if this Warre continue next year, and we muſt raiſe more Money? How and upon what ſhall the Tax be laid? My Anſwer is, that if there be Neceſſity for it, it may be a concurrent Land-Tax. Or the Tax may be puſh'd further on, upon ſome years to come: that is, af<g ref="char:EOLhyphen"/>ter the End of the four years before mentioned.</p>
+            <p>It cannot be denyed, but that the Wayes now men<g ref="char:EOLhyphen"/>tioned, and eſpecially the laſt, will draw on more Inte<g ref="char:EOLhyphen"/>reſt. But to make this Intereſt eaſy, it is further hum<g ref="char:EOLhyphen"/>bly propoſed;</p>
+            <list>
+               <item>1. <hi>That a Land-Tax be granted, ſuppoſe for a Million of Pounds, payable at the end of five years.</hi>
+               </item>
+               <item>2. <hi>That upon the Credit of it, the King be enabled to give Tallies or Tickets, of one hundred Pound each, amounting in the whole to ten thouſand.</hi>
+               </item>
+               <item>3. <hi>That theſe Tickets be made Currant according to their value, by Act of Parliament.</hi>
+               </item>
+               <item>
+                  <pb n="14" facs="tcp:107807:8"/>4. <hi>That theſe Tickets be Pieces, or Plates, or Medalls of Silver, coyn'd or ſtamp'd in the beſt manner to avoid counter<g ref="char:EOLhyphen"/>feiting. and each having its Number fairely ſtamp'd upon it.</hi>
+               </item>
+               <item>5. <hi>That each of them be affixed or appended, under a S<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ale, to a Pockett Booke.</hi>
+               </item>
+               <item>6. <hi>In this Book ſhall be written, To whom and by whom the Ticket was firſt delivered, with all the Aſſign<g ref="char:EOLhyphen"/>ments afterward.</hi>
+               </item>
+               <item>7. <hi>That no Man ſhall be obliged to take them at firſt from the King, but with the Allowance of five</hi> per Cent. <hi>Nor ſhall the Kings Receivers be obliged to take them back at their full value, till after a yeare from their firſt delivery.</hi>
+               </item>
+               <item>8. <hi>That when theſe Tickets are brought in, at the end of the five yeares; they that bring them in, ſhall likewiſe have the Allowance of five</hi> per Cent. <hi>So that they are firſt taken at ninety five pound, and paid back at laſt at a hundred and five.</hi>
+               </item>
+               <item>9. <hi>If any of theſe Tickets be loſt, yet he that had it, to have the benefit of it at the five years end. he proving that it was deliver'd or aſſign'd to him, and there being no proof that it was further aſſigned.</hi>
+               </item>
+               <item>10. <hi>The form of the Pocket Book may be this.</hi>
+               </item>
+            </list>
+            <list>
+               <head>Number One.</head>
+               <item>March 1. 1691. <hi>Deliver'd to</hi> A. B. <hi>of the City of</hi> London <hi>Merchant By Me</hi> C. D. <hi>the Offi<g ref="char:EOLhyphen"/>cers name.</hi>
+               </item>
+               <item>April 17. 1692. <hi>Aſſigned to Sir</hi> E. F. <hi>of</hi> S. <hi>in the County of</hi> Kent, <hi>Knight By Me</hi> A. B.</item>
+               <item>June 24. 1692. <hi>Aſſigned to</hi> G. H. <hi>of the City of</hi> London, <hi>Goldſmith By Me</hi> J. K. <hi>Execu<g ref="char:EOLhyphen"/>tor of Sir</hi> E. F.</item>
+            </list>
+            <p>Here now is Money taken up for the publick Ser<g ref="char:EOLhyphen"/>vice at ten <hi>per Cent.</hi> for five yeares: which is two <hi>per Cent.</hi> yearly.</p>
+            <p>
+               <pb n="15" facs="tcp:107807:8" rendition="simple:additions"/>The firſt five <hi>per Cent.</hi> will take the Tickets cle<g ref="char:EOLhyphen"/>verly out of the Kings hands, without any appearance of hardſhip to the Subject: and it will ſet them faire<g ref="char:EOLhyphen"/>ly aflote. The five <hi>per Cent.</hi> at laſt will ſecure thoſe that take them from being left in the lurch. It will make them not affraid but deſirous to have them at the five yeares End. And it will keep up their value and reputation during the whole time.</p>
+            <p>Theſe Tickets will be a Treaſure that can be neither ſtollen nor loſt. For they will be of no value (more then the Medall) ſave only to Thoſe have the Right to them.</p>
+            <p>They will be a good ſupply for the Money we have lately loſt: and Money will then be leſs needful. Great Summes will be payd with Tickets, and leſſer Summes with Money.</p>
+            <p>Perhaps hereafter, when we have ſeen the way of it, We may in the ſame manner take up greater Summes, at eaſier Intereſt, and for more yeares.</p>
+            <p>But I doubt it will not be convenient, that the A<g ref="char:EOLhyphen"/>mount of theſe Tickets ſhould ever exceed the half of our Running Caſh, though we could have them with<g ref="char:EOLhyphen"/>out Intereſt. A moderate Quantity of them will impe out our Money: but too great a Quantity would drive it quite away.</p>
+            <p>I muſt adde one thing more to the foregoing part of this Diſcourſe: and that is, That when a Land-Tax is granted, there ſhould a Poll-Tax go along with it. That ſo, the whole Kingdom being concern'd, every Man in it may contribute ſomething. The Land-Tax draws hard from thoſe that have Eſtates: and the Poll-Tax will draw ſomething (though a general Exciſe would inſenſi<g ref="char:EOLhyphen"/>bly draw more) from thoſe that have them not. And ſurely when the Men of Eſtates bear the main of the
+<pb n="16" facs="tcp:107807:9"/>Burden, and put their Shoulders to it; it is but reaſonable, that the Common people alſo ſhould each of them lend a Finger. They ought not therefore to complaine, if for every Shilling in the Pound which the Land-Tax riſes to, there be twelve pence a Head laid upon Men; and upon the Women, ſix pence. Thus a great difference is here made, as it ought, between Women and Men. For there is no reaſon that Women ſhould pay equal, when they do not get half ſo much. And I have the rather deſign'd them ſome little Eaſe in this matter; becauſe I think our Nation hath been too valiant, in making hard Lawes a<g ref="char:EOLhyphen"/>gainſt Women.</p>
+            <p>When I ſpeak of ſo much a Head, my meaning is that it ſhould be upon all alike, both high and low. Or if any difference be made, it ſhould be only ſome ſuch difference as this; That Gentlemen, and all ſo reputed, ſhould pay double or treble to common Men.</p>
+            <p>It ſeemes a great Miſtake, that a Poll-Tax, ſhould run high upon Degrees and Titles and Dignities: eſpecially if a Land-T<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>x likewiſe be then on Foot. For generally they that have Titles, have alſo Eſtates, which pay to the Land-Tax. If a Land-Tax come to two Shillings in the Pound, and there be a Poll-Tax proportionable; a common perſon payes two Shillings for his Head, and a Knight of a thouſand a year payes a hundred Pound for his Eſtate: and it ſeems very hard, that he ſhould pay ten Pound more for his Title. Why ſhould we lay more upon thoſe, that have their load already?</p>
+            <p>And though there were no Land-Tax on foot, yet a Poll-Tax that runs upon Titles and Dignities, is of all others the moſt unjuſt, becauſe it is moſt unequall. It is very unequall and unjuſt, that a Squire not worth a hundred Pound, ſhould pay as much as one worth five thouſand a yeare.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London</hi> Printed for <hi>Randall Tayler</hi> near <hi>Stationers-Hall.</hi> 1691.</p>
+            <pb facs="tcp:107807:9"/>
+         </div>
+      </back>
+   </text>
+</TEI>
